@@ -1,0 +1,35 @@
+*{margin: 0;
+  padding: 0;
+  box-sizing: border-box  ;
+}
+body{
+  background-color: black;
+  
+}
+.img{
+    width: 200px;
+    height: 200px;
+    margin-top: 1rem;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem;
+    padding: 1rem;
+    border: 3px rgb(250, 8, 8) solid;
+    background: black;
+    color: white;
+}
+h1{
+  color: red;
+}
+h2{
+  color: red;
+}
+h3{
+  color: red;
+}
+hr{
+  color: red;
+}
