@@ -116,8 +116,6 @@ const eliminarDelCarrito = (id) => {
 }
 
 
-
-
 const total = document.getElementById("total");
 
 const calcularTotal = () => {
